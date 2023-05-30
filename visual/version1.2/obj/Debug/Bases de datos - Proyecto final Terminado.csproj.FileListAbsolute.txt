@@ -1,0 +1,33 @@
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\bin\Debug\Bases de datos - Proyecto final v1.exe.config
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\bin\Debug\Bases de datos - Proyecto final v1.exe
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\bin\Debug\Bases de datos - Proyecto final v1.pdb
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\bin\Debug\Oracle.ManagedDataAccess.dll
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\bin\Debug\System.Buffers.dll
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\bin\Debug\System.Memory.dll
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\bin\Debug\System.Numerics.Vectors.dll
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\bin\Debug\System.Text.Encodings.Web.dll
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\bin\Debug\System.Text.Json.dll
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\bin\Debug\System.Threading.Tasks.Extensions.dll
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\bin\Debug\System.ValueTuple.dll
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\bin\Debug\System.Buffers.xml
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\bin\Debug\System.Memory.xml
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\bin\Debug\System.Numerics.Vectors.xml
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\bin\Debug\System.Text.Encodings.Web.xml
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\bin\Debug\System.Text.Json.xml
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\bin\Debug\System.Threading.Tasks.Extensions.xml
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\bin\Debug\System.ValueTuple.xml
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\obj\Debug\Bases de datos - Proyecto final Terminado.csprojAssemblyReference.cache
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\obj\Debug\Bases_de_datos___Proyecto_final_v1.Consultar.resources
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\obj\Debug\Bases_de_datos___Proyecto_final_v1.Form1.resources
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\obj\Debug\Bases_de_datos___Proyecto_final_v1.Properties.Resources.resources
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\obj\Debug\Bases_de_datos___Proyecto_final_v1.RegEmpresa.resources
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\obj\Debug\Bases_de_datos___Proyecto_final_v1.RegPortatil.resources
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\obj\Debug\Bases de datos - Proyecto final Terminado.csproj.GenerateResource.cache
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\obj\Debug\Bases de datos - Proyecto final Terminado.csproj.CoreCompileInputs.cache
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\obj\Debug\Bases de datos - Proyecto final Terminado.csproj.CopyComplete
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\obj\Debug\Bases de datos - Proyecto final v1.exe
+U:\3)Mis proyectos de Programacion\visual studio\Bases de datos\visual\version1.2\Bases de datos - Proyecto final v1\obj\Debug\Bases de datos - Proyecto final v1.pdb
