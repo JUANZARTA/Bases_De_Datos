@@ -1,0 +1,18 @@
+--INSERTS EMPRESA
+insert into EMPRESA (empresaNit,empresaNombre, empresaFechaCreacion) values (1, 'Gogle', '27/05/2021');
+insert into EMPRESA (empresaNit, empresaNombre , empresaFechaCreacion) values (2, 'Hp', '25/10/2021');
+insert into EMPRESA (empresaNit, empresaNombre, empresaFechaCreacion) values (3, 'Serviciocomputador', '12/07/2021');
+insert into EMPRESA (empresaNit, empresaNombre, empresaFechaCreacion) values (4, 'Computadores', '27/05/2021');
+insert into EMPRESA (empresaNit, empresaNombre, empresaFechaCreacion) values (5, 'LocalComp', '16/02/2022');
+
+--INSERTS PORTATILES
+insert into PORTATIL (portatilserial, portatilmarca, portatilcapacidaddiscoduro, portatilcapacidadmemoriaram, portatilfechaensamblaje, portatiltipodiscoduro, empresanit) values (1, 'Lenovo', '400', '8', '24/04/2021', 'Solido', 1);
+insert into PORTATIL (portatilserial, portatilmarca, portatilcapacidaddiscoduro, portatilcapacidadmemoriaram, portatilfechaensamblaje, portatiltipodiscoduro, empresanit) values (2, 'Dell', '400', '8', '23/01/2022', 'Mecanico', 2);
+insert into PORTATIL (portatilserial, portatilmarca, portatilcapacidaddiscoduro, portatilcapacidadmemoriaram, portatilfechaensamblaje, portatiltipodiscoduro, empresanit) values (3, 'Asus', '400', '8', '30/09/2021', 'M2', 3);
+insert into PORTATIL (portatilserial, portatilmarca, portatilcapacidaddiscoduro, portatilcapacidadmemoriaram, portatilfechaensamblaje, portatiltipodiscoduro, empresanit) values (4, 'Lenovo', '400', '8', '11/11/2021', 'Nvme', 4);
+insert into PORTATIL (portatilserial, portatilmarca, portatilcapacidaddiscoduro, portatilcapacidadmemoriaram, portatilfechaensamblaje, portatiltipodiscoduro, empresanit) values (5, 'Dell', '400', '8', '08/12/2021', 'Solido', 5);
+insert into PORTATIL (portatilserial, portatilmarca, portatilcapacidaddiscoduro, portatilcapacidadmemoriaram, portatilfechaensamblaje, portatiltipodiscoduro, empresanit) values (6, 'Asus', '400', '8', '18/04/2021', 'M2-Sata', 2);
+insert into PORTATIL (portatilserial, portatilmarca, portatilcapacidaddiscoduro, portatilcapacidadmemoriaram, portatilfechaensamblaje, portatiltipodiscoduro, empresanit) values (7, 'Lenovo', '400', '8', '05/11/2021', 'Mecanico', 1);
+insert into PORTATIL (portatilserial, portatilmarca, portatilcapacidaddiscoduro, portatilcapacidadmemoriaram, portatilfechaensamblaje, portatiltipodiscoduro, empresanit) values (8, 'Dell', '400', '8', '08/06/2021', 'Nvme', 5);
+insert into PORTATIL (portatilserial, portatilmarca, portatilcapacidaddiscoduro, portatilcapacidadmemoriaram, portatilfechaensamblaje, portatiltipodiscoduro, empresanit) values (9, 'Asus', '400', '8', '12/12/2021', 'Solido', 4);
+insert into PORTATIL (portatilserial, portatilmarca, portatilcapacidaddiscoduro, portatilcapacidadmemoriaram, portatilfechaensamblaje, portatiltipodiscoduro, empresanit) values (10, 'Lenovo', '400', '8', '19/10/2021', 'Mecanico', 3);

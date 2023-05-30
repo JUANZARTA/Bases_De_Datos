@@ -1,0 +1,21 @@
+CREATE TABLE EMPRESA(
+    empresaNit int not null,
+    empresaNombre varchar2(100) not null,
+    empresaFechacreacion date not null,
+    Constraint PK_NITEMPRESA_EMPRESA primary key(empresaNit)
+    
+);
+
+CREATE TABLE PORTATIL
+(
+    portatilSerial VARCHAR2(50) NOT NULL,
+    portatilMarca VARCHAR2 (50) NOT NULL,
+    portatilCapacidadDiscoDuro INT NOT NULL,
+    portatilCapacidadMemoriaRAM INT NOT NULL,
+    portatilFechaEnsamblaje DATE NOT NULL,
+    portatilTipoDiscoDuro VARCHAR2(100),
+    empresaNit INT NOT NULL,
+    CONSTRAINT PK_PORTATILSERIAL PRIMARY KEY (portatilSerial),
+    CONSTRAINT FK_PORTATILEMPRESA FOREIGN KEY(empresaNit) REFERENCES EMPRESA(empresaNit),
+    CONSTRAINT CKC_PORTATILMARCA CHECK (portatilMarca in ('Lenovo', 'Asus', 'Dell'))
+);
